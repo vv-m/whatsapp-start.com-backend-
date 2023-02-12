@@ -42,6 +42,9 @@ _Запускаем **Django**_ сервер
 python manage.py runserver
 ```
 
+Далее клонируем [проект с frontend`ом](https://github.com/vv-m/whatsapp_start_FRONT) и следуем инструкции приложенной нему.
+
+
 
 ## Используемые технологии
 
